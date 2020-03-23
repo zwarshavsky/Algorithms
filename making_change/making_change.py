@@ -3,7 +3,22 @@
 import sys
 
 def making_change(amount, denominations):
-  pass 
+  amount = n
+  if amount >= 4:
+    return 1
+  if n >= 5:
+    return 2
+  # if n >= 10:
+  #   return 4
+  # if n >= 15:
+  #   return 5
+  # if n >= 15:
+  #   return 5 
+  # if n >= 15:
+  #   return 5
+  # if n >= 15:
+  #   return 5  
+  # return amount
 
 
 if __name__ == "__main__":
